@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: a7c3460771a0c6d4eadd16c2126777c1
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: 0b6285adedc98a74d8411be4d342a49c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brickShader
+    second: {fileID: 2100000, guid: fd963e7be1dad664a8e02a6580458603, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cylinderShader
+    second: {fileID: 2100000, guid: 9b33e143d4a5dba49acb34d3ad805e84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glassShader
+    second: {fileID: 2100000, guid: 37ea672ab2d70fc41acc332719b6ef28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: d133d8e405681884db091f9c0e9ae362, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level1_blinn1
+    second: {fileID: 2100000, guid: 77fa9f0bd48506d42b2dccceb6cab976, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level1_blinn2
+    second: {fileID: 2100000, guid: 2a1b944438440ab429b21669087e41ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level1_plastic1
+    second: {fileID: 2100000, guid: 2b7c4ef334c2b124cb6cca8f89ad7e83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level2_brown
+    second: {fileID: 2100000, guid: 30e2e8e71d2e4504db21a08ae3e2e765, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level2_duksung
+    second: {fileID: 2100000, guid: e23eed44bbc33424d9938a6a260c18ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level2_glass
+    second: {fileID: 2100000, guid: 895090e697981af4b903cac0171b7558, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level2_glass_half
+    second: {fileID: 2100000, guid: a596f7cb8b3200f4ba5e592405eafd43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level2_korean_
+    second: {fileID: 2100000, guid: e2646ad580b35c146a6cfb9a54765017, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level2_light_brown
+    second: {fileID: 2100000, guid: e902a62d8f222fe40a00213f8dbc3a11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level2_sliver
+    second: {fileID: 2100000, guid: 2244031ea150d1649a48c373db613e73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level2_white
+    second: {fileID: 2100000, guid: 03de80dd01fe81049a3e14fca1608b60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level5_aiStandardSurface1
+    second: {fileID: 2100000, guid: 077120485f376de42b21ec23527cd8db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level5_black
+    second: {fileID: 2100000, guid: b8a84a34e101b1541a327e91ba60a242, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level5_glass_half
+    second: {fileID: 2100000, guid: f178f7400390c3e4fb136f7d2df9e20a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level5_lightBrown
+    second: {fileID: 2100000, guid: 4ce2eb39d9fb13b49a121b508dd5c270, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level5_planc
+    second: {fileID: 2100000, guid: b3fc2ae2f24cced47bbae88451a77c35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level5_room243
+    second: {fileID: 2100000, guid: f60510559db396b4ead42ab9d66f6e24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level5_room244
+    second: {fileID: 2100000, guid: 76caa8ab9bc967343877a593bde05e86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level5_room245
+    second: {fileID: 2100000, guid: 6d6211bb772e64445b586afd4092ab9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level5_room246
+    second: {fileID: 2100000, guid: 231d274ea769adf4183d579c54feba98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level5_room247
+    second: {fileID: 2100000, guid: f742c771d78ab554ba0c24ff7cda022c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level5_room248
+    second: {fileID: 2100000, guid: a411f832735e414488d719b0b468cae7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level5_white
+    second: {fileID: 2100000, guid: dca551ddfd9aea940a3f28df885cd8a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: level5_window
+    second: {fileID: 2100000, guid: 9e57dce1544794b4a9b5e2c28f902f20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plasticBlackShader
+    second: {fileID: 2100000, guid: 6faa36f992bfff4408891ac2d12541c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stainlessShader
+    second: {fileID: 2100000, guid: 7deca5b7aa08b9042810ba273aa9ab9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stoneShader
+    second: {fileID: 2100000, guid: fbd3caac315a82b479ed4508c4e11027, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stoneTileShader
+    second: {fileID: 2100000, guid: 27dd44e21a6fb3c479399cada150460c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: upstairswindow
+    second: {fileID: 2100000, guid: b778735193de5e04795334683324a117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallShader
+    second: {fileID: 2100000, guid: b1d33980f0c947e44b4bddacbe4c9d4f, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
